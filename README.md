@@ -1,1 +1,2 @@
 # Web-Design-Challenge
+I ran into quite a few unexpected Time Suckers during this bootcamp, and focused the time I had on understanding the material, which left me with little time to implement. Turning in something is better than nothing, so here is what I was able to get done in a short time. I re-used files from Group Project 2 as a basis, since it had a good structure already set up, with a CSS I like and understand.
